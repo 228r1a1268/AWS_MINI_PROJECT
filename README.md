@@ -1,0 +1,1 @@
+# AWS_MINI_PROJECT
